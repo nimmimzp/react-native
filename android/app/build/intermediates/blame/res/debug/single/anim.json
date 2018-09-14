@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d34d7616deaafec1da75f31fb084d88d/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d34d7616deaafec1da75f31fb084d88d/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/home/deligence/Desktop/React-Native/hello/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/42e3dce74a4f45482d6b5f3cf92133e0/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/lightbox_enter.xml",
+        "source": "/home/deligence/Desktop/React-Native/hello/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/anim/lightbox_enter.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/42e3dce74a4f45482d6b5f3cf92133e0/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d34d7616deaafec1da75f31fb084d88d/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d34d7616deaafec1da75f31fb084d88d/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/42e3dce74a4f45482d6b5f3cf92133e0/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/pop.xml",
+        "source": "/home/deligence/Desktop/React-Native/hello/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/anim/pop.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/42e3dce74a4f45482d6b5f3cf92133e0/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/home/deligence/Desktop/React-Native/hello/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/home/deligence/Desktop/React-Native/hello/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d34d7616deaafec1da75f31fb084d88d/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/home/deligence/Desktop/React-Native/hello/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/42e3dce74a4f45482d6b5f3cf92133e0/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/42e3dce74a4f45482d6b5f3cf92133e0/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/no_animation.xml",
+        "source": "/home/deligence/Desktop/React-Native/hello/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/anim/no_animation.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d34d7616deaafec1da75f31fb084d88d/res/anim/design_fab_out.xml"
+    }
+]

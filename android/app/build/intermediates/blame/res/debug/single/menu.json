@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/home/deligence/Desktop/React-Native/hello/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/menu/stub.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/home/deligence/Desktop/React-Native/hello/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/menu/search_item.xml"
+    }
+]

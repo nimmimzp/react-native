@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_3ea4d2f660e13ed2e9ab903d5a79b968d99960c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_5651b6c00f0d61ccb2f063f5c4ee2a82b194af9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_5a8539e8614e19b218ec45ed6ce1d5305dc5b7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_985ad5f481c5d27897a47a63778f4f945dda4ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f9667725e032eb0064266ccb5726f5818c8cfa1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_cc3bbda949b8ce37566212adb8b4971d9375d6f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d2931d4ab90854b8ec31b2da38a639394be0195c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_cc3bbda949b8ce37566212adb8b4971d9375d6f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ed24a6f817d9fe8d6008a1deb691526c29a957f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_21909be257e972682b182d59cce721dbfec19039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_40cc1b34bcb2cb052185ec70fe5b0e3f59b7adf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_de4305f391bc5cdf922480f7167bddc04248c88c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_dd132e8402899864ee06377eb851be06e4a9bcca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ed24a6f817d9fe8d6008a1deb691526c29a957f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_3617f208d0485a0bff040286f6a4824b9b05502e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_985ad5f481c5d27897a47a63778f4f945dda4ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_f0cab47f2ba26a1aa8045e96e7e7dbf701b95b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_3dcd5f588efac59c5745a5fce0149b3f360f6f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_5a0301b27b6244c2322ef9678acb5e75d3659ff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ceb728b6dd7385d13a7c9abc982c8010bbffd34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_896f0027aec429af6cdeb42ced3ecf374f28231f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/udmey/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9000d1296d6baa68e539cfeac05a0f8d334af595">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/udmey-react-native-navigation-unspecified_6d9da4b648cc0a8cd6385f17443c0d6d817f0d60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_33de267fe5f84a9cec3080a892f9ffab0356e879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_a44942adaf65a227902563dca3f189a06b30a1c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_6b1fe5cd852f573cba83f822b7ac16e49a739f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/udmey/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1f32d248ec690bd1fca0677ed1ce2fcc993ec0b9">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/udmey-react-native-vector-icons-unspecified_8a82fc1effec41b0f768997ab67a2c1d2ba04e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/udmey/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f32d248ec690bd1fca0677ed1ce2fcc993ec0b9">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/udmey-react-native-vector-icons-unspecified_8a82fc1effec41b0f768997ab67a2c1d2ba04e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d2931d4ab90854b8ec31b2da38a639394be0195c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_e8365b41527dd58c871213580b2b324892fece06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_46e950538b926086aff5fd2a886534c030034b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_1e31a2e39f70bb1d7487d020d4170b1591afa60e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_3158ae2aa40d1fd7e4baf827d304b0005c5e8b54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_2b5d82ab40b7eab9ae537ca3b0a85f2977d3f62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_c4849114562f5d4e1b57e83f2de7e207a876e36c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6ffb0a630f12e177a364e5123df7d830b19714c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_6b0b7a8e47442619825de0a4dcecc4d1c3e99696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_61f69692789def19d3a01e9505446793e7083878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/udmey/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9000d1296d6baa68e539cfeac05a0f8d334af595">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/udmey-react-native-navigation-unspecified_889c355af0b57a7856567e116a0bd33215e367ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2a6bb2da2ffda5193ad7991869bf76b06d60d57f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_abc2ba1b3203d7c9b9c586089d0ad2388828a4f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_33de267fe5f84a9cec3080a892f9ffab0356e879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_a7de3b7f0e8c7e5a55d7f3818a93d43aa0c3bddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_abc2ba1b3203d7c9b9c586089d0ad2388828a4f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_5119f76e4418bfa472b6a9897f9b5d0648dfa08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6c7cd67af70cc6c076893c3fbf7eb3e36c404cb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_422ebfa758d84ea4991f84c3a2b354cb1142efaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_1aaabb4af657aff348b8eabac463193f540205c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_0de69875263087c424336fea2a61b4bc6cf9332d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_b971c06bd5edf7ac1f617af2edc4be3aa08f8b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6c7cd67af70cc6c076893c3fbf7eb3e36c404cb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_61f4a26010af9ed6cfe72b6b52809e00ca67dcb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_bd3dc979f587a7b2a9e19a8cd933a00c2d97a635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_0ef8851fad6f6234ddf908f51573a4e4ad89e60d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_b7efcc4886746be4f2c645116035b5361fb7a628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_e3ba2f952f83ca9a562c6bd13f7acbe367d64adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_7a40283f1eef5131358310075c37b28f2606e807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_d6f185e7b348ba5912de6cebf08055ae2575e7fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_9b7ebe862967fafcef34b456284a2b5ec5760074.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_ba929f81c469cdad8ddd93ca201709cad8012880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/udmey/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f32d248ec690bd1fca0677ed1ce2fcc993ec0b9">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/udmey-react-native-vector-icons-unspecified_ec9d581f8da88e8536d8cd6f952bb345ca433bfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_8c9b171405f2c68ff3bc2edf51a1c4f7a7eb0929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_62d9957292ee15546197c83640d8b9613904c9f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_e3ba2f952f83ca9a562c6bd13f7acbe367d64adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_d6f185e7b348ba5912de6cebf08055ae2575e7fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_c581fb53ce1adaf65fcbcdf287d8905b2be5b2e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_62d9957292ee15546197c83640d8b9613904c9f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_9e595453b802cf4a4d0aad4858a16b9610a3e1cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_1aaabb4af657aff348b8eabac463193f540205c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_dd132e8402899864ee06377eb851be06e4a9bcca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_41420df6a2814a1eeaa6a1ac4da81d342b607128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_21909be257e972682b182d59cce721dbfec19039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_fd3e9d69b370278f19963438015eb1d3392ed052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_93b176f286f0c0ea5ac5ec0d0192fe9d9226ae90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_aaec935393bdc8f0e288cc09c385097de761bd73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_41420df6a2814a1eeaa6a1ac4da81d342b607128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_7a40283f1eef5131358310075c37b28f2606e807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_360caf2c3ee42cc17145f3d6dc72e24702b11e88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_9e595453b802cf4a4d0aad4858a16b9610a3e1cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/deligence/Desktop/React-Native/rn-course/udmey/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_422ebfa758d84ea4991f84c3a2b354cb1142efaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_f28d98a3debbf1ebab434a53e75a6463551a4c31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_79ef464fd0d437077667b4cc78de622091554d1a.jar" />
+    </item>
+
+</items>

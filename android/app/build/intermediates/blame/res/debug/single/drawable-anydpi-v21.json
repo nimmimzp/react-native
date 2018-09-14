@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d34d7616deaafec1da75f31fb084d88d/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d34d7616deaafec1da75f31fb084d88d/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

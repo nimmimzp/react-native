@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/53100ea8013e5b1485cb84138103d5f2/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/53100ea8013e5b1485cb84138103d5f2/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/React-Native/hello/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/deligence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7825e45c0f0ab287846cbc81ffbc58b1/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
